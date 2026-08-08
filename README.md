@@ -36,4 +36,4 @@ Powerful **Zapier Apex** management toolkit providing Gantt charts, resource all
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
